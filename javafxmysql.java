@@ -45,7 +45,7 @@ public class javafxmysql extends Application {
         root.setStyle("-fx-padding: 30; -fx-alignment: center;");
         Scene scene = new Scene(root, 400, 550);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("JavaFX Oracle DB Manager");
+        primaryStage.setTitle("JavaFX MYSQL DB Manager");
         primaryStage.show();
     }
 
