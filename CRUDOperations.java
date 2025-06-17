@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.*;
 
-public class MysqlDBOperations 
+public class CRUDOperations 
 {
 
     static final String URL = "jdbc:mysql://localhost:3306/sakila"; 
