@@ -12,7 +12,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class javafxmysql extends Application {
+public class JavaFX extends Application {
 
     String url = "jdbc:mysql://localhost:3306/javafx";
     String user = "root";
